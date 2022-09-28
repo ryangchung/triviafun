@@ -14,6 +14,6 @@ However, if the focus was cross-platform compatibility the better choice would b
 - Image scaling for all screen sizes
 
 ## How to Install and Use
-1. Clone this repository, unzip if needed
-2. Through Android Studios, open the build.gradle file in the app directory
+1. Clone this repository down to your computer.
+2. Through Android Studios, open the build.gradle file in the surface directory.
 3. In the top right area of the topbar, click the green arrow to emulate the app.
