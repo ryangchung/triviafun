@@ -8,11 +8,12 @@ To target Android mobile users, I chose Android Studios as the platform as it is
 
 However, if the focus was cross-platform compatibility the better choice would be React Native.
 
-## Challenges that were overcome
+## Learned
 
 - Proper asynchronous API calls that don't block threads
 - Image scaling for all screen sizes
 
-## How to Install
-1. Clone this repo, unzip if needed
-2. 
+## How to Install and Use
+1. Clone this repository, unzip if needed
+2. Through Android Studios, open the build.gradle file in the app directory
+3. In the top right area of the topbar, click the green arrow to emulate the app.
