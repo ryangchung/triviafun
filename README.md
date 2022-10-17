@@ -2,6 +2,9 @@
 
 This is a trivia mobile application for Android. This app uses API requests from the Open Trivia API. It turns the requested information (questions, answers, difficulty level) into a playable game with many different categories and an increasing difficulty.
 
+## Layout
+![Layout](Frame 1.png)
+
 ## Technology Choices
 
 To target Android mobile users, I chose Android Studios as the platform as it is the native and recommended way to create apps for Android. I also chose Kotlin as it is the officially supported language for app development.
