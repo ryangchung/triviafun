@@ -3,7 +3,7 @@
 This is a trivia mobile application for Android. This app uses API requests from the Open Trivia API. It turns the requested information (questions, answers, difficulty level) into a playable game with many different categories and an increasing difficulty.
 
 ## Layout
-![Layout](Frame 1.png)
+![Layout](layout.png)
 
 ## Technology Choices
 
